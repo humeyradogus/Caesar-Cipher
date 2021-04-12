@@ -4,7 +4,7 @@ package com.dogus;
  * This program implements an easy encryption approach is
  * called Caesar cipher, which uses a key to encrypt messages.
  *
- * @author Humeyra Dogus - 20181701057
+ * @author Humeyra Dogus
  * @version 1.0
  * @since 2020-12-19
  */
