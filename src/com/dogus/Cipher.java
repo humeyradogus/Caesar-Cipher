@@ -5,7 +5,7 @@ package com.dogus;
  * There are 2 methods within this program for this purpose.
  * The program allows us to print the results in a file.
  *
- * @author Humeyra Dogus - 20181701057
+ * @author Humeyra Dogus 
  * @version 1.0
  * @since 2020-12-19
  */
